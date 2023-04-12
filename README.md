@@ -1,1 +1,1 @@
-# 2nd-journal-conf
+# 2nd-journal-paper
