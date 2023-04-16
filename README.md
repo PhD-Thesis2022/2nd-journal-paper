@@ -1,4 +1,4 @@
-# Adv-Bot
+# Adv-Bot: Realistic adversarial botnet attacks against network intrusion detection systems
 
 ## Description
 
@@ -13,3 +13,4 @@ This repo contains the Adv-bot framework proposed in the article below. You will
 
 ## Article Reference
 
+Debicha, I., Cochez, B., Kenaza, T., Debatty, T., Dricot, J. M., & Mees, W. (2023). Adv-Bot: Realistic adversarial botnet attacks against network intrusion detection systems. Computers & Security, 129, 103176.
